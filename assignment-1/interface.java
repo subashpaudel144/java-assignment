@@ -19,7 +19,7 @@ interface Animal {
   class interface_in_java {
     public static void main(String[] args) {
       Dog mydog = new Dog(); 
-      mydig.animalSound();
-      myPig.sleep();
+      mydog.animalSound();
+      mydog.sleep();
     }
   }
