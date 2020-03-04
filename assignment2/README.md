@@ -1,5 +1,5 @@
 ## You first create a custom exception class .
-##for example
+## for example
 
 public class OwnException extends Exception{
     public OwnException(String message){
